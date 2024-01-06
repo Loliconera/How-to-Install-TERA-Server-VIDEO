@@ -6,10 +6,10 @@ Keep in mind, the purpose of this guide is pointing you to the right direction c
 https://www.youtube.com/embed/sHzMNe1xli4
 
 ## WebApp/Item Claim Setup
-https://www.youtube.com/watch?v=eLL_5ReC7VU
+https://www.youtube.com/embed/eLL_5ReC7VU
 
 ## Proxy Server Setup
-https://www.youtube.com/watch?v=I5Hi_eXvldY
+https://www.youtube.com/embed/I5Hi_eXvldY
 
 ## Client Patch Setup
-https://www.youtube.com/watch?v=lcLt7HtBcRU
+https://www.youtube.com/embed/lcLt7HtBcRU
